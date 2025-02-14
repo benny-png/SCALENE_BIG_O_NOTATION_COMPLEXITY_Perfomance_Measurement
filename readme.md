@@ -3,6 +3,7 @@
 ## 📌 Introduction
 This project demonstrates the usage of **Scalene**, a high-performance Python profiler that provides **execution time, memory usage, and Big-O complexity estimation**. We profile functions with different computational complexities to analyze their performance.
 
+![Scalene Profiling](https://github.com/benny-png/SCALENE_BIG_O_NOTATION_COMPLEXITY_Perfomance_Measurement/blob/main/image.png)
 ---
 
 ## 🚀 Features
