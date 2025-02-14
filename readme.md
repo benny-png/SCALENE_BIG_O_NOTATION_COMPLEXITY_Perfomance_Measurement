@@ -21,6 +21,8 @@ First, install Scalene using pip:
 pip install scalene
 ```
 
+## 🔗 Scalene Project
+For more information on Scalene, visit the [Scalene GitHub repository](https://github.com/plasma-umass/scalene).
 ---
 
 ## 📝 Usage
