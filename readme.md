@@ -30,9 +30,16 @@ git clone https://github.com/benny-png/SCALENE_BIG_O_NOTATION_COMPLEXITY_Perfoma
 cd SCALENE_BIG_O_NOTATION_COMPLEXITY_Perfomance_Measurement
 ```
 
-2. Run the script with Scalene profiling:
+2. Run the script with Scalene profiling (command line):
 ```bash
 scalene test_scalene.py --cli
+```
+
+---
+
+ Run the script with Scalene profiling (localhost):
+```bash
+scalene test_scalene.py
 ```
 
 ---
